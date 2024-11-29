@@ -1,6 +1,6 @@
 Pénélope HENNER: Penelope.henner@ensea.fr
 
-**Dungeon Crawler**
+*Dungeon Crawler*
 
 A simple 2D dungeon crawler game built in Java. Navigate the mape, avoid obstacles, and reach the exit in the shortest possible time!
 
