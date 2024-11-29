@@ -1,10 +1,10 @@
 Pénélope HENNER: Penelope.henner@ensea.fr
 
-#Dungeon Crawler
+# Dungeon Crawler
 
 A simple 2D dungeon crawler game built in Java. Navigate the mape, avoid obstacles, and reach the exit in the shortest possible time!
 
-##Features
+## Features
 
 **Dynamic gameplay**: Control a character that can move in all four directions.  
 **Collision detection**: Prevent the hero from walking through solid objects.  
@@ -18,7 +18,7 @@ A simple 2D dungeon crawler game built in Java. Navigate the mape, avoid obstacl
 	- Displays "Game Over - You Win" with the total time upon completion.  
 	- Displays "Game Over - You Lost" when health is depleted.  
 
-##Project Structure	
+## Project Structure	
 
 ```
 Dungeon Crawler
@@ -36,7 +36,7 @@ Dungeon Crawler
 
 ```
 
-##Project Tree
+## Project Tree
 
 ```
 .
